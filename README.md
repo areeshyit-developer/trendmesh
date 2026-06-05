@@ -1,3 +1,4 @@
+
 # 📊 TrendMesh — Multi-Platform Analytics & Social Media Dashboard
 
 TrendMesh is an advanced analytics dashboard that consolidates key metrics, post creation, and scheduling for major social media platforms—including TikTok, Instagram, Facebook, and Twitter—into a single, unified interface. It empowers content creators and brands to track their growth and manage content seamlessly.
@@ -17,7 +18,7 @@ TrendMesh is an advanced analytics dashboard that consolidates key metrics, post
 
 ### 🎥 Project Demo Video
 <p align="center">
-  <video src="PASTE_YOUR_DEMO_VIDEO_LINK_HERE" width="85%" controls muted autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/69a6592a-3dd4-4806-bbe9-9355c17b063c" width="85%" controls muted autoplay loop></video>
 </p>
 
 ### 🖼️ Application Interface
